@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0B2A5B"/>
+  <circle cx="1095" cy="50" r="290" fill="#10396F"/>
+  <circle cx="1095" cy="50" r="220" fill="none" stroke="#315C96" stroke-width="2"/>
+  <rect x="95" y="106" width="76" height="76" rx="23" fill="#1D4ED8"/>
+  <path d="M113 126c10-4 19-2 25 3v37c-6-5-15-7-25-3v-37Zm51 0c-10-4-19-2-25 3v37c6-5 15-7 25-3v-37Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <text x="195" y="149" fill="#fff" font-family="Arial,sans-serif" font-size="29" font-weight="700">THE BANSAL ACADEMY</text>
+  <text x="100" y="317" fill="#fff" font-family="Georgia,serif" font-size="74">Best Coaching in</text>
+  <text x="100" y="410" fill="#c7dcff" font-family="Georgia,serif" font-size="74">Laxmi Nagar, Delhi</text>
+  <text x="105" y="504" fill="#d0def3" font-family="Arial,sans-serif" font-size="27">Maths · Science · Commerce · CUET</text>
+</svg>

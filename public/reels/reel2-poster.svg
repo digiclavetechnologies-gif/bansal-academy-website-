@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="960" viewBox="0 0 540 960">
+  <defs><linearGradient id="b" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#EAF2FF"/><stop offset="1" stop-color="#C9DBFA"/></linearGradient></defs>
+  <rect width="540" height="960" fill="url(#b)"/><circle cx="60" cy="820" r="230" fill="none" stroke="#A8C2EE" stroke-width="2"/><circle cx="60" cy="820" r="172" fill="none" stroke="#B9CEF0" stroke-width="2"/>
+  <text x="56" y="116" fill="#1D4ED8" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4">THE BANSAL ACADEMY</text>
+  <text x="56" y="394" fill="#0B2A5B" font-family="Georgia,serif" font-size="62">Curiosity is</text><text x="56" y="466" fill="#1D4ED8" font-family="Georgia,serif" font-size="62">a great place</text><text x="56" y="538" fill="#0B2A5B" font-family="Georgia,serif" font-size="62">to start.</text>
+  <path d="M56 589h130" stroke="#1D4ED8" stroke-width="3"/><text x="56" y="645" fill="#526884" font-family="Arial,sans-serif" font-size="20">Learn with clarity in Laxmi Nagar</text>
+</svg>

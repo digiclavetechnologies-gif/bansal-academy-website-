@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="960" viewBox="0 0 540 960">
+  <defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D6E5FF"/><stop offset="1" stop-color="#F3F8FF"/></linearGradient></defs>
+  <rect width="540" height="960" fill="url(#a)"/><circle cx="440" cy="145" r="190" fill="none" stroke="#9BB9ED" stroke-width="2"/><circle cx="440" cy="145" r="140" fill="none" stroke="#B8CFF5" stroke-width="2"/>
+  <text x="56" y="116" fill="#1D4ED8" font-family="Arial,sans-serif" font-size="19" font-weight="700" letter-spacing="4">THE BANSAL ACADEMY</text>
+  <text x="56" y="384" fill="#0B2A5B" font-family="Georgia,serif" font-size="60">Ideas become</text><text x="56" y="454" fill="#1D4ED8" font-family="Georgia,serif" font-size="60">understanding.</text>
+  <path d="M56 505h130" stroke="#1D4ED8" stroke-width="3"/><text x="56" y="560" fill="#526884" font-family="Arial,sans-serif" font-size="20">Maths · Science · Commerce · CUET</text>
+</svg>

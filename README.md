@@ -19,7 +19,7 @@ The supplied academy logo is used in the header, footer, favicon and social prev
 
 ## Replace the reels
 
-Add the academy's H.264 MP4 files at `public/reels/reel1.mp4` and `public/reels/reel2.mp4` (each under 8 MB), replacing the matching poster SVGs if approved client posters are available. The two Instagram destinations are already configured. Local videos autoplay muted and loop while visible, pause off screen, and provide a mute control. If a video file is missing, the poster and play control link to the original Instagram reel. The MP4 files are necessary for in-page autoplay and are not currently present in this workspace.
+The academy's H.264 MP4 videos and matching posters are included in `public/reels/`. Their Instagram destinations are configured in `src/config.js`. Local videos autoplay muted and loop while visible, pause off screen, and provide a mute control. If a video file is missing, the poster and play control link to its Instagram reel.
 
 ## Add verified reviews
 

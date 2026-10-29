@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vercel/
+.env
+.env.*
+!.env.example
+id proof and bill/
+IMG_4466.HEIC
