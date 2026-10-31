@@ -42,11 +42,11 @@ export const config = {
     'tuition in East Delhi',
   ],
   faqs: [
-    { question: 'Which classes and subjects do you teach?', answer: 'The Bansal Academy offers Class 9 and Class 10 Maths, Science and Social Science; Class 11 and 12 Commerce with Accountancy, Economics and Business Studies; Class 11 and 12 Arts with Political Science, Sociology and Economics; and CUET preparation.', needsConfirmation: false },
-    { question: 'Is there a free demo class?', answer: 'You can request a free demo class using the enquiry form or by calling the academy.', needsConfirmation: false },
+    { question: 'Which classes and subjects do you teach?', answer: 'The Bansal Academy offers coaching for Classes 1 to 8 (all subjects); Class 9 and Class 10 Maths, Science and Social Science; Class 11 and 12 Commerce with Accountancy, Economics and Business Studies; Class 11 and 12 Arts with Political Science, Sociology and Economics; and CUET preparation.', needsConfirmation: false },
+    { question: 'Is there a free demo class?', answer: 'You can attend a free demo class for up to 3 days. Request your demo using the enquiry form or by calling the academy.', needsConfirmation: false },
     { question: 'Where is the academy located?', answer: 'The academy is at M 161, near Chinese Hut, Block M, Jagat Ram Park, Laxmi Nagar, Delhi 110092.', needsConfirmation: false },
-    { question: 'Are classes online or offline?', answer: 'Please contact the academy to confirm current class modes and availability.', needsConfirmation: true },
-    { question: 'Do you provide doubt support?', answer: 'Please contact the academy to confirm the doubt-support arrangements for your class.', needsConfirmation: true },
+    { question: 'Are classes online or offline?', answer: 'Both online and offline classes are available.', needsConfirmation: false },
+    { question: 'Do you provide doubt support?', answer: 'Yes. A doubt-clearing class is available after every lecture.', needsConfirmation: false },
     { question: 'How can I enquire or visit?', answer: 'Call or WhatsApp +91 87502 79822, or visit M 161, near Chinese Hut, Block M, Jagat Ram Park, Laxmi Nagar, Delhi 110092.', needsConfirmation: false },
   ],
   courses: [
